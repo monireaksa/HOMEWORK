@@ -5,7 +5,9 @@
     list-style: none;
     font-family: "Poppins", sans-serif;
 }
-
+.spaced {
+    margin-bottom: 50px;
+}
 body {
     background-color: #f4f4f9;
     color: #333;
@@ -41,8 +43,8 @@ body {
 }
 
 .profile img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 160px;
     border-radius: 50%;
     border: 3px solid #fff;
     margin: 0 auto;
